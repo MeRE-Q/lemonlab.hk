@@ -13,20 +13,20 @@ sections:
       email: tanya.tan@polyu.edu.hk
       phone: +852 3400 3865
       address:
-        street: 450 Serra Mall
+        street: 11 Yuk Choi Rd
         city: Hong Kong
-        region: Kwoon long
-        postcode: '94305'
-        country: HONG KONG
+        # region: Kwoon long
+        postcode: '999077'
+        country: China
         country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '22.3046'
+        longitude: '114.1796'
+      directions: Room ZN714, Floor 7, Blcok Z, The Hong Kong Polytechnic University
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas

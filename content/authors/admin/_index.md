@@ -1,40 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tanya TAN Zheng
 
-# Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+# Full name (for SEO)
+# first_name: Alice
+# last_name: Wu
+
+# Username (this should match the folder name)
+authors:
+  - Tanya TAN Zheng
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: The Hong Kong Polytechnic University
+    url: 'https://www.polyu.edu.hk/bre/people/academic-staff/dr-tanya-zheng-tan/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include sustainable planning and design, outdoor thermal comfort, design and human perception and age-friendly cities.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sustainable planning and design
+  - Outdoor thermal comfort
+  - Design and human perception
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Architecture
+      institution: CUHK
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MEng in Architecture
+      institution: CUHK
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Architecture
+      institution: CUHK
       year: 2008
 
 # Social/Academic Networking
@@ -44,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+    link: 'mailto:tanya.tan@polyu.edu.hk'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  # - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com.hk/citations?user=6dycgEkAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,17 +65,16 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+email: 'tanya.tan@polyu.edu.hk'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+  # - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr Tanya Z. Tan is currently an Assistant Professor in the Department of Building and Real Estate, the Hong Kong Polytechnic University. Tanya received her M.Sc. in Sustainable and Environmental Design (Distinction) and Ph.D. in Architecture from The Chinese University of Hong Kong, in 2010 and 2016, respectively. 
+She was a Research Fellow in the School of Civil and Environmental Engineering, Nanyang Technological University (NTU Singapore), and a Postdoctoral Fellow in the Institute of Future Cities, The Chinese University of Hong Kong. She then joined the Mechanical and Civil Engineering Department at Hautes Études d'Ingénieur, Université Catholique de Lille for teaching and research. Her research interests focus on sustainable urban planning and design, urban climate, age-friendly cities, design and human perception. Since 2014 Tanya has been involved in teaching architectural design studio, sustainable urban planning, green building design strategies, and computer simulation (microclimate modelling and building energy performance simulation).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
